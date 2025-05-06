@@ -12,7 +12,3 @@ This repository provides everything needed to deploy a self-hosted instance of *
 - 📡 Hosted on [Render](https://render.com)
 - ⚙️ Open Source version of Metabase (no cost)
 
----
-
-## 🧱 Folder Structure
-
